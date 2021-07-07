@@ -1,8 +1,7 @@
 /* ===============================================================
-    ALUNO: RENAN VIECILI LAMEU
+    ALUNO: RENAN V. LAMEU
     Data: 14/05/21
     Programa: Sistema de Cadastro
-    Exercicio: Lista 5
    ===============================================================
 */
 
